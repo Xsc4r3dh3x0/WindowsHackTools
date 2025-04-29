@@ -13,4 +13,6 @@ all tools:
 HOW2USE , arp-scan , dalfox , ffuf , getsubdomain , gobuster , hexeditor , httpx , ipcalc , katana , masscan , ncat , nuclei , nxc , otherland , procexp , procmon , subfinder , termclean , waybackurls , wmiexplorer
 
 
-or use script all-in-one.ps1
+or use script:
+
+all-in-one.ps1
