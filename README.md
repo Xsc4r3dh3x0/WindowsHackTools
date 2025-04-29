@@ -11,3 +11,6 @@ scoop install otherland ,, ipmo ~\scoop\apps\otherland\1.0.0\otherland.psm1 ,, g
 all tools:
 
 HOW2USE , arp-scan , dalfox , ffuf , getsubdomain , gobuster , hexeditor , httpx , ipcalc , katana , masscan , ncat , nuclei , nxc , otherland , procexp , procmon , subfinder , termclean , waybackurls , wmiexplorer
+
+
+or use script all-in-one.ps1
