@@ -15,8 +15,8 @@ HOW2USE , arp-scan , dalfox , ffuf , getsubdomain , gobuster , hexeditor , httpx
 
 or use script:
 
-all-in-one.ps1    (only insatll all)
+all-in-one.ps1      (only install all)
 
-all&syspath.ps1   (install all and add to system path)
+all&syspath.ps1     (install all and add to system path)
 
 
